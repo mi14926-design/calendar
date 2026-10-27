@@ -1,0 +1,6 @@
+{
+  "name": "Chronosync Calendar",
+  "description": "A feature-rich calendar app with Google Calendar sync, drag-and-drop scheduling, custom event reminders, offline access, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
